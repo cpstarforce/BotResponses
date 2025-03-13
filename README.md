@@ -9,6 +9,7 @@ A container for the many creative responses produced by the Star Force bot on Di
 - The name or extension of a file must not be changed.
 - Each work response must contain the `{{amount}}` variable.
 - A work response should not be longer than 300 characters.
+- Each response folder contains a `.min` subfolder. In this directory, minified files are kept for machine reading. This should be in sync with the uminified (normal) files.
 
 ## List of variables
 
