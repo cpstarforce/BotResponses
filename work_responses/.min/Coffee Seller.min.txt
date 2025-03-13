@@ -1,1 +1,1 @@
-You sold some coffee for {{amount}}.;You earned {{amount}} in tips, but {{randomUser}} took the main money.;You served {{randomMascot}} some coffee! You make {{amount}}.
+You sold some coffee for {{amount}}.;You earned {{amount}} in tips, but {{randomSponsor}} took the main money.;You served {{randomMascot}} some coffee! You make {{amount}}.
