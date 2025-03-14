@@ -1,0 +1,1 @@
+You guarded the island for {{amount}}, although you witnessed nothing.

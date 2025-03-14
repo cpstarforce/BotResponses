@@ -1,0 +1,1 @@
+You tracked down a few mascots for {{amount}}.

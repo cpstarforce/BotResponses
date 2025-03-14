@@ -1,0 +1,1 @@
+You went on an exciting adventure and earned {{amount}} for the tours.
