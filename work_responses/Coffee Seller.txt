@@ -1,5 +1,5 @@
 You serve some coffee for {{amount}}.
-You earned {{amount}} for serving some coffee to {{mascot}}.
+You earned {{amount}} for serving some coffee to {{randomMascot}}.
 Your customers love the work you do! You make {{amount}} in tips.
 Today, you have been playing Bean Counters instead of making coffee. You earned {{amount}} from the game alone.
 You served {{random.small}} customers and made a humble sum of {{amount}}.
