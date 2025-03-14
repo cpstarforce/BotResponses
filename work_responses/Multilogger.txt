@@ -1,1 +1,9 @@
 You multilogged without being caught and earned {{amount}}.
+You opened {{random.small}} tabs. The outcome was great! Here's your promised {{amount}}.
+You multilogged and your army was penalized. You earn {{amount}} for your courage, however.
+Despite massive confrontation, you multilogged without being caught. You received {{amount}} for your efforts.
+You purchased a few computers with 128 GB of RAM each for someone so they could launch hundreds of cpabattleground.com tabs. They paid you {{amount}}.
+You multilogged by operating a computer you had took on rent. You profited {{amount}}, so renting was not really a problem.
+Your army has acknowledged your efforts in multilogging without being caught. As a result, you've been rewarded with {{amount}}.
+You supported your army's allies by supplying them with a couple of accounts on CPA Battleground. The allies sent you {{amount}}.
+You registered 100 new recruits today and earned {{amount}}! Are you sure they are not your alternate accounts?
