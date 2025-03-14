@@ -19,9 +19,9 @@ Work responses rely on variables to display information. Variables are sorrounde
 - `{{randomSponsor}}` • Returns the name of a random sponsor.
 - `{{randomMascot}}` • Returns the name of a random Club Penguin mascot.
 - `{{random}}` • Returns a random number from 2–1000, both inclusive.
-- `{{random.small}}` • Returns a random number from 2–20, both inclusive.
-- `{{random.medium}}` • Returns a random number from 20–100, both inclusive.
-- `{{random.big}}` • Returns a random number from 100–1000, both inclusive.
+- `{{random.small}}` • Returns a random whole number from 2–20, both inclusive.
+- `{{random.medium}}` • Returns a random whole number from 20–100, both inclusive.
+- `{{random.big}}` • Returns a random whole number from 100–1000, both inclusive.
 
 ## Pull Requests
 
