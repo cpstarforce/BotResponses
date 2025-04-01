@@ -1,1 +1,1 @@
-You drilled the mines for {{amount}}.
+You drilled the mines for {{amount}}.;You compete the other hundred miners and dig {{amount}}.;You mined being idle for 24 whole hours only to earn a humble {{amount}}.;You flipped the Iceberg for {{amount}}.;{{randomSponsor}} wanted their igloo floor cleared. They send a large sum of {{amount}} in tips.;{{randomMascot}} needed a few golden nuggets from the Cave Mine. You help them and get {{amount}}.

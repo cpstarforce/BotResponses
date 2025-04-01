@@ -1,1 +1,1 @@
-You guarded the island for {{amount}}, although you witnessed nothing.
+You guard the island for {{amount}}, although you witness nothing.;You help moderators catch a few offenders off-duty. Your income for today is a simple {{amount}}.;You complete a few Spy Drills and get {{amount}} for your progress.;You protected {{randomMascot}} from the bad weather today. They pay you {{amount}} for your service.
