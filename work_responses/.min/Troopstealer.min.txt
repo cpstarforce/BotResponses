@@ -1,1 +1,1 @@
-You stole some troops from another army for {{amount}}.
+You stole some troops from another army for {{amount}}.;Herbert sent you to complete an important operation. Your task was to steal {random.small} troops from another army for {{amount}}. You did it!;Amazing, you had enlisted {{random.medium}} troops today! Here's your {{amount}}. I hope the leaders don't find out where you got them from.

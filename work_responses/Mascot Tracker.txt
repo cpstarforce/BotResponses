@@ -1,1 +1,7 @@
 You tracked down a few mascots for {{amount}}.
+You found {{randomMascot}} on the outskirts of Club Penguin Island. Here's {{amount}} for you.
+After tracking down {{random.small}} mascots, you made up {{amount}}.
+You've been appreciated by the Club Penguin Times for searching for mascots. You also profit {{amount}} from the promotion.
+Tracking mascots is no easy job. Good job on tracking down {{randomMascot}} for {{amount}}.
+You managed to recruit a mascot you tracked to the Star Force. Wow! You get {{amount}} for your efforts.
+You completed your daily dose of mascot tracking. Here's your promised {{amount}}!

@@ -9,7 +9,7 @@ A container for the many creative responses produced by the Star Force bot on Di
 - The name or extension of a file must not be changed.
 - Each work response must contain the `{{amount}}` variable.
 - A work response should not be longer than 300 characters.
-- Each response folder contains a `.min` subfolder. In this directory, minified files are kept for machine reading. This should be in sync with the uminified (normal) files.
+- Each response folder contains a `.min` subfolder. In this directory, minified files are kept for machine reading. This should be in sync with the uminified (normal) files. See the "Minifier Script" section at the end of this README file to learn more.
 - Archived responses are messages that are not in use. They should be kept in the `/archived/` folder.
 
 ## List of variables
@@ -27,3 +27,16 @@ Work responses rely on variables to display information. Variables are sorrounde
 ## Pull Requests
 
 Our repository relies on the power of Git pull requests. Please see [`CONTRIBUTING.md`](https://github.com/cpstarforce/BotResponses/blob/main/CONTRIBUTING.md) to learn how to contribute.
+
+## Minifier Script
+
+This repository comes with a Node.js script that minifies text that the Star Force bot can read and understand. This script minifies the response by replacing all newline characters (`\n`) with semicolons (`;`), which is exactly what the bot requires. It only supports input via a file path, and can be run from the command line.
+
+The output file is always saved in the `.min` directory of the folder in which the original text file is present. The resulting file name will automatically match the original filename for compatibility. You can move the script in a directory as you like, but remember to keep it back in place (at `/`)!
+
+**Example usage:**
+
+```bash
+node minify.js "Coffee Seller.txt"
+# Finished saving minified response list to /…/.min/Coffee Seller.txt.
+```
