@@ -35,8 +35,19 @@ This repository comes with a Node.js script that minifies text that the Star For
 The output file is always saved in the `.min` directory of the folder in which the original text file is present. The resulting file name will automatically match the original filename for compatibility. You can move the script in a directory as you like, but remember to keep it back in place (at `/`)!
 
 **Example usage:**
+To minify the `Coffee Seller.txt` response list file, keep the minifier script in the `work_responses` directory and run the script:
 
 ```bash
-node minify.js "Coffee Seller.txt"
-# Finished saving minified response list to /…/.min/Coffee Seller.txt.
+node minifier.js "Coffee Seller.txt"
+# [BotResponses/minifier] Finished saving minified response list to /…/.min/Coffee Seller.txt.
 ```
+
+**Example usage:**
+To minify the `Coffee Seller.txt` response list file by keeping the minifier script where it should be (at `/`), you can still run the script by providing the required relative path:
+
+```bash
+node minifier.js "./work_responses/Coffee Seller.txt"
+# [BotResponses/minifier] Finished saving minified response list to /…/.min/Coffee Seller.txt.
+```
+
+The path you provide is should be relative to the location of the `minifier.js` file.

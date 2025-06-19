@@ -13,27 +13,30 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { dirname } from 'path';
+import { dirname, basename, join, dirname as getDirname, extname } from 'path';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const args = process.argv.slice(2);
-const outputDir = `${__dirname}/.min`;
-const inputFileName = path.basename(args[0], '.txt');
-const outputFile = `${outputDir}/${inputFileName}.min.txt`;
+const inputPath = args[0];
+const absoluteInputPath = path.resolve(inputPath);
+const inputDir = getDirname(absoluteInputPath);
+const outputDir = join(inputDir, '.min');
+const inputFileName = basename(inputPath, extname(inputPath));
+const outputFile = join(outputDir, `${inputFileName}.min.txt`);
 
 if (args.length === 0) {
   console.error("[BotResponses/minifier] Please provide a text file path.");
   process.exit(1);
 }
 
-if (!fs.existsSync(args[0])) {
-  console.error(`[BotResponses/minifier] The file ${args[0]} does not exist.`);
+if (!args[0].endsWith('.txt')) {
+  console.error("[BotResponses/minifier] The file must be a text file ending in '.txt'.");
   process.exit(1);
 }
 
-if (!args[0].endsWith('.txt')) {
-  console.error("[BotResponses/minifier] The file must be a text file ending in '.txt'.");
+if (!fs.existsSync(args[0])) {
+  console.error(`[BotResponses/minifier] The file ${args[0]} does not exist.`);
   process.exit(1);
 }
 
