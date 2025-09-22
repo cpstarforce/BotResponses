@@ -1,9 +1,15 @@
-You go on an exciting adventure and earn {{amount}} for the tours.
-You earn several badges for all the dangerous time in the Wilderness of Club Penguin. You make {{amount}}.
-You share a selfie of yourself with Herbert in the forest on social media. The monetization helped you add {{amount}} more to your current balance.
-All that time in the Puffle Wild and you find nothing other than {{amount}} on the ground.
-You launch a branch of the Club Penguin Wilderness Research programme at a random location in the Mountains. You profitted {{amount}}.
-In the outskirts of Club Penguin, you explore a few new species of puffles and earn {{amount}} from fame.
-You traverse the Rockhopper Island with Captain Rockhopper and find treasures worth {{amount}}.
-You gave {{randomSponsor}} a tour in the wild. They pay you {{amount}} despite having a terrible experience.
-You love flowers! You surprise {{randomMascot}} with some flowers and make an instant {{amount}}.
+You trek through the Forest and discover a hidden stash of {{amount}}.
+Exploring the snowy Mountain, you narrowly escape a snowball avalanche and earn {{amount}}.
+You hop onto the Iceberg, stumbling upon a secret cave someone dug with {{amount}} inside.
+You navigate the Underground Pool and collect {{amount}} for your findings.
+You paved your way through the lengthy staircase of the Lighthouse, and spot a massive, rare fish left untouched, and sell it for {{amount}}. Was it Jet Pack Guy's?
+You surprise {{randomMascot}} with a wildflower bouquet in the Mountains. They reward you {{amount}} instantly.
+{{randomMascot}} asks for help tracking a rare puffle. You successfully tracked it down and your efforts earn you {{amount}}.
+While exploring Rockhopper Island with {{randomMascot}}, you uncover treasures worth {{amount}}.
+You and {{randomMascot}} participate in a Card-Jitsu Snow tournament as a team. Your triumphant teamwork earns you {{amount}}.
+You helped {{randomMascot}} map the Wilderness of Club Penguin, and you discover ancient ruins and receive {{amount}} for your discoveries.
+You guide {{randomSponsor}} through the Forest. Despite a chaos with the local puffles, they hand you {{amount}}.
+{{randomSponsor}} hires you as a Puffle Wild tour guide. Their gratitude is worth {{amount}} coins. Are you happy?
+After taking {{randomSponsor}} on a Rockhopper Island treasure hunt, they pay {{amount}} for your time.
+You show {{randomSponsor}} the hidden cave under the Forest. They send you {{amount}} only because you made them not feel lonely.
+While researching new puffle species with {{randomSponsor}}, your fame gets you {{amount}} into your wallet.

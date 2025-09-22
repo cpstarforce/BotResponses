@@ -1,7 +1,15 @@
-You tracked down a few mascots for {{amount}}.
+You tracked down Aunt Arctic at the Coffee Shop and earned {{amount}}. Looks like someone's going to get free coffee today.
+You found Rockhopper during a background giveaway and made {{amount}}.
+You earned {{amount}} after spotting Cadence at the Dance Club and sharing the news!
+You helped penguins find Gary during a stamp event. Your reward is {{amount}}.
+You located Rookie at the Beach during a mission and received {{amount}}.
+You guided others to Sensei in the Dojo and earned {{amount}} for your efforts.
+You spotted Jet Pack Guy during Operation Puffle and secured {{amount}}.
 You found {{randomMascot}} on the outskirts of Club Penguin Island. Here's {{amount}} for you.
-After tracking down {{random.small}} mascots, you made up {{amount}}.
-You've been appreciated by the Club Penguin Times for searching for mascots. You also profit {{amount}} from the promotion.
 Tracking mascots is no easy job. Good job on tracking down {{randomMascot}} for {{amount}}.
-You managed to recruit a mascot you tracked to the Star Force. Wow! You get {{amount}} for your efforts.
-You completed your daily dose of mascot tracking. Here's your promised {{amount}}!
+After a long search, you finally spotted {{randomMascot}} at the Ski Lodge. Your reward is {{amount}}.
+You snapped a photo with {{randomMascot}} and sold it to {{randomSponsor}} for {{amount}}!
+After guiding {{randomSponsor}} to {{randomMascot}}, you earn {{amount}} for your service.
+You've been appreciated by the Club Penguin Times for searching for mascots. You also profit {{amount}} from the promotion, mainly because {{randomSponsor}} photobombed the pictures you took.
+You managed to recruit a mascot you tracked to the Star Force. Wow! You get {{amount}} for your efforts. Also, {{randomSponsor}} was impressed.
+You completed your daily dose of mascot tracking and impressed {{randomSponsor}}, even though they didn't ask for all of this. Here's your promised {{amount}} from our side!
