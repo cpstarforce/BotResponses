@@ -12,11 +12,8 @@
 
 import fs from 'fs';
 import path from 'path';
-import { fileURLToPath } from 'url';
-import { dirname, basename, join, dirname as getDirname, extname } from 'path';
+import { basename, join, dirname as getDirname, extname } from 'path';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
 const args = process.argv.slice(2);
 const inputPath = args[0];
 const absoluteInputPath = path.resolve(inputPath);
@@ -48,7 +45,7 @@ if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir);
 }
 
-const minifiedContent = input.replace(/\n/g, ';');
+const minifiedContent = input.replace(/\n/g, ';').replace(';;', ';');
 fs.writeFileSync(outputFile, minifiedContent, 'utf-8');
 
 console.log(`[BotResponses/minifier] Finished saving minified response list to ${outputFile}.`);
