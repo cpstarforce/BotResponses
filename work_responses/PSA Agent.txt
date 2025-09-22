@@ -1,7 +1,15 @@
 You guard the island for {{amount}}, although you witness nothing.
-"Thank you for your service", said Gary, secretly putting {{amount}} into your coat.
 You find purpose as a PSA Agent. You somehow earned {{amount}} on doing so.
-It was a very busy day digging snow near the Dojo. Sensei pays you {{amount}}.
-You completed an undercover mission {{randomMascot}} requested for. They pay you {{amount}} for a successful investigation.
-You found {{amount}} on the ground and were able to give it to its rightful owner. They graciously give you the same amount.
+You found {{amount}} on the ground and were able to give it to its rightful owner. They graciously give you the same amount for your honesty. Wait, what just happened?
 You completed your shift at the Stadium. Good job, Agent. Here's your promised {{amount}}.
+It was a very busy day digging snow near the Dojo. Sensei pays you {{amount}}.
+"Thank you for your service", said {{randomMascot}}, secretly putting {{amount}} into your coat.
+You completed an undercover mission {{randomMascot}} requested for. They pay you {{amount}} for a successful investigation.
+{{randomMascot}} gave you a clue during a mission, rewarding you {{amount}}.
+You escorted {{randomMascot}} safely across the island and earned {{amount}}.
+After solving a mystery with {{randomMascot}}, you are credited with {{amount}}.
+{{randomSponsor}} asked you to handle a small case. You finish the task and collect {{amount}}.
+You guard the PSA Headquarters entrance for {{randomSponsor}} and earn {{amount}}. Got any recruits, yet?
+After investigating a report filed by {{randomSponsor}}, you receive {{amount}}.
+{{randomSponsor}} funds one of your island patrols. You gain {{amount}} from their support.
+You recovered an item for {{randomSponsor}} and earned {{amount}} for your service.

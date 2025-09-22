@@ -1,6 +1,6 @@
 You guard the island during a routine security sweep and earn {{amount}}!
 By completing a few Spy Drills at the EPF Headquarters, you gain {{amount}} for your progress.
-Your mission in tracking Herbert’s minions in the Forest was successful. You earn {{amount}} for your commitment.
+Your mission in tracking Herbert's minions in the Forest was successful. You earn {{amount}} for your commitment.
 You assist moderators during an off-duty operation and collect {{amount}}.
 You review old PSA files from 2009 to improve mission efficiency. Your proposals made their way through and your wallet now has {{amount}} more than before.
 You protected {{randomMascot}} from the bad weather during a mission. They pay you {{amount}}!
