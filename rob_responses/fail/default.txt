@@ -1,0 +1,8 @@
+You went into {target}'s home, freaked out, and returned with nothing.
+You were having a nice little date with {target}. But then, you snatched {amount} from them. They managed to beg you for that money, though, so they got it back. Look at you!
+You disguised yourself as {target}, who is a waiter taking a while in the restroom. However, it turns out this store doesn't even get customers!
+You enter {target}'s igloo and manage to find golden nuggets tucked underneath a carpet. You later tried to sell these but your already-spoiled reputation had you getting no customers.
+{target} dropped some of their money while leaving their home. You thought you could steal it, but they notice what's on the ground and pick it up right away.
+You played Aladdin and tried to fetch yourself some amount from {target}'s pockets. Apparently, a Genie showed up on time and you freaked out.
+While trying to rob {target}, you get distracted by better-looking people on the street.
+You tried to perform a swift snatch on {target}, but a nearby vendor announced a promotion at full volume, shifting your attention. Your plan collapsed.
