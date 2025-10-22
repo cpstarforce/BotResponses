@@ -1,8 +1,8 @@
-You went into {target}'s home, got screamed at by a puffle, and returned.
-You were having a nice little date with {target}. You tried to snatch {amount} from them, but their puffle eats it. That puffle loves your date more than you do.
-You disguised yourself as {target}, who is a waiter taking a while in the restroom. Their puffle notices you and laughs you out of the restaurant.
-You looked into {target}'s puffle's cute eyes while trying to fetch yourself some golden nuggets hidden underneath the carpet at your target's igloo. Its eyes were very cute. They were so cute that you forgot what you were going to do and returned.
-{target} dropped some of their money while leaving their home. Unfortunately for you, their puffle stole it instead.
-You played Aladdin and tried to fetch yourself some amount from {target}'s pockets. But, their puffle pulls up the Genie and it's no longer yours.
-{target}'s street-loving puffle distracted you, LOL.
-You tried to perform a swift snatch on {target}, but a nearby vendor announced a promotion at full volume. You tried to not get distracted, but your target's puffle helped you give up.
+You went into {{target}}'s home, got screamed at by a puffle, and returned.
+You were having a nice little date with {{target}}. You tried to snatch some coins from them, but their puffle eats it. That puffle loves your date more than you do.
+You disguised yourself as {{target}}, who is a waiter taking a while in the restroom. Their puffle notices you and laughs you out of the restaurant.
+You looked into {{target}}'s puffle's cute eyes while trying to fetch yourself some golden nuggets hidden underneath the carpet at your target's igloo. Its eyes were very cute. They were so cute that you forgot what you were going to do and returned.
+{{target}} dropped some of their money while leaving their home. Unfortunately for you, their puffle stole it instead.
+You played Aladdin and tried to fetch yourself some amount from {{target}}'s pockets. But, their puffle pulls up the Genie and it's no longer yours.
+{{target}}'s street-loving puffle distracted you, LOL.
+You tried to perform a swift snatch on {{target}}, but a nearby vendor announced a promotion at full volume. You tried to not get distracted, but your target's puffle helped you give up.

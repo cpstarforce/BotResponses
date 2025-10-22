@@ -1,8 +1,8 @@
-You went into {target}'s home, robbed {amount}, and returned.
-You were having a nice little date with {target}. But then, you snatched {amount} from them and left them crying. Not my type.
-You disguised yourself as {target}, who is a waiter actually taking a while in the restroom. You make {amount} from not just the servings but the tips, too!
-You enter {target}'s igloo and manage to find golden nuggets tucked underneath a carpet. You later sell these for {amount}.
-{target} accidentally dropped some of their money while leaving their home. You profit {amount} from their silly mistake.
-You played Aladdin and managed to fetch yourself {amount} from {target}'s pockets.
-You tried hard not to get distracted by better-looking people on the street, and finally made {amount} out of {target}'s hands.
-You tried to perform a swift snatch on {target}, but a nearby vendor announced a promotion at full volume. You gained {amount} because you didn't get distracted by the sales.
+You went into {{target}}'s home, robbed {{amount}}, and returned.
+You were having a nice little date with {{target}}. But then, you snatched {{amount}} from them and left them crying. Not my type.
+You disguised yourself as {{target}}, who is a waiter actually taking a while in the restroom. You make {{amount}} from not just the servings but the tips, too!
+You enter {{target}}'s igloo and manage to find golden nuggets tucked underneath a carpet. You later sell these for {{amount}}.
+{{target}} accidentally dropped some of their money while leaving their home. You profit {{amount}} from their silly mistake.
+You played Aladdin and managed to fetch yourself {{amount}} from {{target}}'s pockets.
+You tried hard not to get distracted by better-looking people on the street, and finally made {{amount}} out of {{target}}'s hands.
+You tried to perform a swift snatch on {{target}}, but a nearby vendor announced a promotion at full volume. You gained {{amount}} because you didn't get distracted by the sales.

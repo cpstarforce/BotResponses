@@ -12,7 +12,9 @@ A container for the many creative responses produced by the Star Force bot on Di
 - Each response folder contains a `.min` subfolder. In this directory, minified files are kept for machine reading. This should be in sync with the uminified (normal) files. See the "Minifier Script" section at the end of this README file to learn more.
 - Archived responses are messages that are not in use. They should be kept in the `/archived/` folder.
 
-## List of variables
+## Work responses
+
+### List of variables
 
 Work responses rely on variables to display information. Variables are sorrounded by two curly braces, like `{{variable}}`:
 
@@ -23,6 +25,14 @@ Work responses rely on variables to display information. Variables are sorrounde
 - `{{random.small}}` • Returns a random whole number from 2–20, both inclusive.
 - `{{random.medium}}` • Returns a random whole number from 20–100, both inclusive.
 - `{{random.big}}` • Returns a random whole number from 100–1000, both inclusive.
+
+## Rob responses
+
+Rob responses rely on variables to display information. Variables are sorrounded by two curly braces, like `{{variable}}`:
+
+- `{{target}}` • The user target
+- `{{amount}}` • The amount stolen (only for: success)
+- `{{fine}}` • The fine paid (only for: fined)
 
 ## Pull Requests
 
