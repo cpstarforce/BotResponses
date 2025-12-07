@@ -2,7 +2,7 @@ You went into {{target}}'s home, attempted robbing, and got fined {{fine}}.
 You were having a nice little date with {{target}}. But then, you snatched {{fine}} from them and left them crying. Not my type.
 You disguised yourself as {{target}}, who is a waiter taking a while in the restroom. The security notices this and you end up paying {{fine}}.
 You enter {{target}}'s igloo and manage to find golden nuggets tucked underneath a carpet. You later try selling these, only to get fined with {{fine}}.
-{{target}} dropped some of their money while leaving their home. A police officer saw you picking it up and not caring to return it back, and got fined {{fined}}.
+{{target}} dropped some of their money while leaving their home. A police officer saw you picking it up and not caring to return it back, and got fined {{fine}}.
 You played Aladdin and tried to fetch yourself some coins from {{target}}'s pockets. Apparently, a Genie showed up on time and rescued the amount. It seems like you also lost {{fine}} of yours, magically.
 {{target}}'s street-loving puffle distracted you, LOL.
 You tried to perform a swift snatch on {{target}}, but a nearby vendor announced a promotion at full volume, and starts thinking you're suspicious. You said you were guilty and got fined {{fine}}.
